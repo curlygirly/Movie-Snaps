@@ -171,16 +171,13 @@ Images:
 -------
 
 - Welcome Page
-![Movie-Snaps Welcome Page](git_imgs/welcome-page.png)
+![Movie-Snaps Welcome Page](git_imgs/Welcome page.png)
 
-- User Show Page
-![Movie-Snaps User Show Page](git_imgs/user-show-page.png)
+- User Profile Page
+![Movie-Snaps User Show Page](git_imgs/User profile page.png)
 
-- Location Show Page
-![Movie-Snaps Location Show Page](git_imgs/location-show-page.png)
-
-- Movie Show Page
-![Movie-Snaps Movie Show Page](git_imgs/movie-show-page.png)
+- Location Page
+![Movie-Snaps Location Show Page](git_imgs/Location page.png)
 
 
 Links:
